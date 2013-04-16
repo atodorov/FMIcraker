@@ -1,5 +1,0 @@
-<?php if($error){?>
-<p><?=$error?></p>
-<?php }else if($success){ ?>
-<p><?=$success?></p>
-<?php } ?>

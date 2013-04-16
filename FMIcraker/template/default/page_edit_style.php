@@ -1,1 +1,0 @@
-<a href="/admin-panel/pages/edit/$">$</a>
